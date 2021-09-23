@@ -1,1 +1,1 @@
-This is a Food Emoji interpreter app using React which tells meaning of input emojis
+This is a Food Emoji interpreter app using React which tells meaning of input emojis using React useState and JS object
