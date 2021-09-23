@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  background-color: #254e58;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #123c69;
+  padding: 2rem;
+  border-radius: 2.5rem;
+  color: white;
+}
