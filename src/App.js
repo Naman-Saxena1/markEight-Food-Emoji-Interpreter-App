@@ -45,6 +45,7 @@ export default function App() {
               onClick={() => onEmojiClickHandler(item)}
               key={item}
               style={{
+                fontSize: "3rem",
                 display: "inline",
                 paddingRight: "1rem",
                 cursor: "pointer"
