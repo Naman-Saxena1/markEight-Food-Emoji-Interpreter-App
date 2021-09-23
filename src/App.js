@@ -36,7 +36,11 @@ export default function App() {
   return (
     <div className="App">
       <h1>Food Emoji Interpreter App</h1>
-      <input id="emojiInput" onChange={onInputChangeHandler}></input>
+      <input
+        id="emojiInput"
+        style={{ fontSize: "1.8rem", width: "100%", textAlign: "center" }}
+        onChange={onInputChangeHandler}
+      ></input>
       <div style={{ paddingTop: "1.5rem" }}>{meaning}</div>
       <ul>
         {emojiArray.map((item) => {
