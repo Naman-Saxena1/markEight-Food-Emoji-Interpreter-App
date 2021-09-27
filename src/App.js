@@ -10,7 +10,8 @@ let foodEmojiDictionary = {
   "🥪": "Sandwich",
   "🍿": "Popcorn",
   "🍺": "Beer",
-  "🍨": "Ice Cream"
+  "🍨": "Ice Cream",
+  "🧁": "Cup cake"
 };
 
 let emojiArray = Object.keys(foodEmojiDictionary);
